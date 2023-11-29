@@ -20,7 +20,6 @@ export default function Show({name='TestName', rating=5, img = "https://static.t
                     <p>Average Rating: {rating}</p>
                 </div>
             </div>
-            
         </div>
     )
 }
