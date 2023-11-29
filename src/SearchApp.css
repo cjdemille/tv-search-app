@@ -1,7 +1,15 @@
-.SearchApp{
-    display:flex;
+.SearchApp {
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; */
+}
+
+.ShowResults {
+    display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
+    width: 100%;
 }
