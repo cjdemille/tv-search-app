@@ -1,0 +1,14 @@
+.Show {
+    margin: 2em;
+    display: inline-block;
+}
+
+.card {
+    display: inline-block;
+    height: 25em;
+    width: 20em;
+}
+
+.card img {
+    width: 60%;
+}
